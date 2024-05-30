@@ -1,5 +1,5 @@
 name: gluster-metrics-exporter
-version: 0.4.4
+version: 0.4.5
 
 authors:
   - rbotez <robert.botez@airportlabs.com>/<Robert.Botez@com.utcluj.ro>
