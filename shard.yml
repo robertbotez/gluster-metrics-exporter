@@ -17,7 +17,7 @@ dependencies:
 
   glustercli:
     github: aravindavk/glustercli-crystal
-    commit: 9bdda6857ac932973ba4fb4904b441214652a1c3
+    commit: 0881f270471be31d4f6d06f45d896e17adace0db
 
 targets:
   gluster-metrics-exporter:
