@@ -1,8 +1,8 @@
 name: gluster-metrics-exporter
-version: 0.4.2
+version: 0.4.4
 
 authors:
-  - Kadalu.io <engineering@kadalu.io>
+  - rbotez <robert.botez@airportlabs.com>/<Robert.Botez@com.utcluj.ro>
 
 description: |
   Simple efficient Prometheus exporter for Gluster Metrics.
@@ -17,6 +17,7 @@ dependencies:
 
   glustercli:
     github: aravindavk/glustercli-crystal
+    commit: 9bdda6857ac932973ba4fb4904b441214652a1c3
 
 targets:
   gluster-metrics-exporter:
