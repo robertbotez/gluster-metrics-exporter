@@ -5,7 +5,7 @@
 Download the latest release with the command
 
 ```
-$ curl -fsSL https://github.com/kadalu/gluster-metrics-exporter/releases/latest/download/install.sh | sudo bash -x
+$ curl -fsSL https://github.com/robertbotez/gluster-metrics-exporter/releases/latest/download/install.sh | sudo bash -x
 ```
 
 Test to ensure the version you installed is up-to-date
